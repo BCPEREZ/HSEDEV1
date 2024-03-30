@@ -3,6 +3,8 @@ header{
     margin: 0%;
     padding: 10px;
     font-size: x-large;
+    max-width: 100%;
+  height: auto;
 }
 Ul li{
     list-style: none;
